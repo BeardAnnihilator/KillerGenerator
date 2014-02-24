@@ -1,0 +1,4 @@
+C:\Users\Periph_a\Documents\Visual Studio 2010\Projects\KillerGenerator\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Periph_a\Documents\Visual Studio 2010\Projects\KillerGenerator\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Periph_a\Documents\Visual Studio 2010\Projects\KillerGenerator\KillerGenerator\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Periph_a\Documents\Visual Studio 2010\Projects\KillerGenerator\KillerGenerator\obj\x86\Debug\ConsoleApplication1.pdb
